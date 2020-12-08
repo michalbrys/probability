@@ -23,7 +23,7 @@ REQUIRED_PACKAGES = [
     'jax==0.1.71',
     'jaxlib',
     # Pin a TF version while TFP-on-JAX still depends on TF
-    'tensorflow==2.2.0',
+    'tensorflow==2.3.1',
     # Pin a TFP version until a new release
     'tfp-nightly==0.11.0.dev20200629',
 ]
